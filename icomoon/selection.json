@@ -1,0 +1,128 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M747.52 307.251l-471.040-0.051 235.52 409.6z"
+				],
+				"tags": [
+					"arrow-down",
+					"triangle",
+					"down",
+					"bottom"
+				],
+				"grid": 20,
+				"matchesSearch": false
+			},
+			"properties": {
+				"id": 202,
+				"order": 1,
+				"prevSize": 20,
+				"code": 58881,
+				"name": "fecha_abajo",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 202
+		},
+		{
+			"icon": {
+				"paths": [
+					"M276.48 716.8h471.040l-235.571-409.6z"
+				],
+				"tags": [
+					"arrow-up",
+					"triangle",
+					"up",
+					"top"
+				],
+				"grid": 20,
+				"matchesSearch": false
+			},
+			"properties": {
+				"id": 203,
+				"order": 2,
+				"prevSize": 20,
+				"code": 58882,
+				"name": "fecha_arriba",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 203
+		},
+		{
+			"icon": {
+				"paths": [
+					"M512 61.44l122.266 344.166h328.294l-267.878 202.138 95.744 354.816-278.426-212.685-278.426 212.685 95.744-354.816-267.878-202.138h328.294z"
+				],
+				"tags": [
+					"star",
+					"favorite",
+					"rate",
+					"bookmark"
+				],
+				"grid": 20,
+				"matchesSearch": false
+			},
+			"properties": {
+				"id": 27,
+				"order": 3,
+				"prevSize": 20,
+				"code": 58880,
+				"name": "estrella",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 27
+		},
+		{
+			"icon": {
+				"paths": [
+					"M384 640l128-64 448-448-64-64-448 448-64 128zM289.3 867.098c-31.632-66.728-65.666-100.762-132.396-132.394l99.096-272.792 128-77.912 384-384h-192l-384 384-192 640 640-192 384-384v-192l-384 384-77.912 128"
+				],
+				"tags": [
+					"pencil",
+					"write",
+					"edit",
+					"blog",
+					"note"
+				],
+				"grid": 16,
+				"matchesSearch": true
+			},
+			"properties": {
+				"id": 6,
+				"order": 4,
+				"prevSize": 16,
+				"code": 58883,
+				"name": "lapiz",
+				"ligatures": ""
+			},
+			"setIdx": 9,
+			"iconIdx": 6
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 512,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {},
+		"historySize": 100,
+		"showCodes": true
+	}
+}
